@@ -1,0 +1,1 @@
+C:\Users\Israel\AppData\Local\Temporary Projects\MySQLConnectorWithCSharp\bin\Debug\MySQLConnectorWithCSharp.exe.config
