@@ -1,1 +1,10 @@
 C:\Users\Israel\AppData\Local\Temporary Projects\MySQLConnectorWithCSharp\bin\Debug\MySQLConnectorWithCSharp.exe.config
+C:\Users\Israel\Source\Repos\MySQLConnectorWithCSharp\MySQLConnectorWithCSharp\bin\Debug\MySQLConnectorWithCSharp.exe.config
+C:\Users\Israel\Source\Repos\MySQLConnectorWithCSharp\MySQLConnectorWithCSharp\bin\Debug\MySQLConnectorWithCSharp.exe
+C:\Users\Israel\Source\Repos\MySQLConnectorWithCSharp\MySQLConnectorWithCSharp\bin\Debug\MySQLConnectorWithCSharp.pdb
+C:\Users\Israel\Source\Repos\MySQLConnectorWithCSharp\MySQLConnectorWithCSharp\obj\Debug\MySQLConnectorWithCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Source\Repos\MySQLConnectorWithCSharp\MySQLConnectorWithCSharp\obj\Debug\MySQLConnectorWithCSharp.Form1.resources
+C:\Users\Israel\Source\Repos\MySQLConnectorWithCSharp\MySQLConnectorWithCSharp\obj\Debug\MySQLConnectorWithCSharp.Properties.Resources.resources
+C:\Users\Israel\Source\Repos\MySQLConnectorWithCSharp\MySQLConnectorWithCSharp\obj\Debug\MySQLConnectorWithCSharp.csproj.GenerateResource.Cache
+C:\Users\Israel\Source\Repos\MySQLConnectorWithCSharp\MySQLConnectorWithCSharp\obj\Debug\MySQLConnectorWithCSharp.exe
+C:\Users\Israel\Source\Repos\MySQLConnectorWithCSharp\MySQLConnectorWithCSharp\obj\Debug\MySQLConnectorWithCSharp.pdb

@@ -15,6 +15,10 @@ namespace MySQLConnectorWithCSharp
         public Form1()
         {
             InitializeComponent();
+            MySQLConnection mysqlConnection = new MySQLConnection();
+            mysqlConnection.MySqlConnection();
+            
+            
         }
     }
 }
